@@ -16,5 +16,5 @@ make
 # Run the program with compatible input
 ./pipex infile "cmd1" "cmd2" outfile
 
-# e.g
+(e.g)
 ./pipex file1 "grep a1" "wc -w" file2
